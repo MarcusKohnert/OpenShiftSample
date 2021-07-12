@@ -1,1 +1,1 @@
-P_PROJECT=OpenShiftTest.WebApi/OpenShiftTest.WebApi.csproj
+DOTNET_STARTUP_PROJECT=src/OpenShiftTest.WebApi/OpenShiftTest.WebApi.csproj
